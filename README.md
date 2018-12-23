@@ -1,2 +1,2 @@
 # myAmazingRepo
-Sample for tutorial
+Sample for tutorial amazing !!
