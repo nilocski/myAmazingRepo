@@ -1,0 +1,2 @@
+# myAmazingRepo
+Sample for tutorial
